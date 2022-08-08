@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @roshanrawatt
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Big Data Analytics
-- 💞️ I’m looking to collaborate on interesting real life problems. :p
-- 📫 How to reach me roshanrawat70@gmail.com
+It is always wonderful to think about how Netflix or Hotstar recommends new movies based on the watch history, how Amazon or Flipkart suggests new products based on your order or search history. These suggestions or recommendations are done by a system called a recommendation system. This engine makes suggestions by learning and understanding the patterns in your watch history (let’s say) and then applies those patterns and findings to make new suggestions.
+ In this machine learning project, we build a recommendation system from the ground up to suggest movies to the user based on his/her preferences.This project aims at the creation of a movie recommendation engine. 
+Recommendation System framework plays a vital role in today’s internet surfing, be it buying a product from an e-commerce site or watching a movie on some video-on-demand service.
+In our everyday life, we depend on recommendations given by other people either by word of mouth or reviews of general surveys. People often use recommender systems over the web to make decisions for the items related to their choice. Recommendation systems are software tools and techniques whose goal is to make useful and sensible recommendations to a collection of users for items or products that might interest them . In other words, the recommender system or recommendation systems belongs to a class of information filtering system that aims at predicting the ‘preference’ or ‘rating’ given to an item.
 
-<!---
-roshanrawatt/roshanrawatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
